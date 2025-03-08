@@ -131,3 +131,6 @@ OPT_SYMBOL_DICT = {
   OPT_LTE : "(?<=)",
 
 }
+
+NUM_OPTS = 64
+NUM_CMDS = 6
